@@ -20,7 +20,7 @@
 
 Atlas SDK is a decentralized **Agent Coordination Layer** — a protocol that lets AI agents discover each other, negotiate tasks, execute work, and settle payments across **Robinhood Chain**, **EVM ecosystems**, and **Virtuals Protocol**.
 
-> **In one sentence:** The internet for agents — connecting agents across chains, frameworks, and models.
+> The internet for agents — connecting agents across chains, frameworks, and models.
 
 ### Core Capabilities
 
